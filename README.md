@@ -1,5 +1,5 @@
 Timothy Logan Assignment #2 - Systems design
-Description: This project is a FastAPI application thats intended to be used for weather forcasting. It allows users to upload historical weather data for a specific area, both in text form or just uploading a file to the program, and have future forcasts based of this information. The data and future predictions can also then be visualized into graphs for the user to see. This API could be used both for meteorologist as a tool to relay weather information, whether that be through an app or a website using this API.
+Description: This project is a FastAPI application thats intended to be used for weather forcasting. It allows users to upload historical weather data for a specific area, both in text form or just uploading a file to the program, and have future forcasts based off this information. The data and future predictions can also then be visualized into graphs for the user to see. This API could be used both for meteorologist as a tool to relay weather information, whether that be through an app or a website using this API.
 ![image](https://github.com/user-attachments/assets/cd4f302e-9259-414f-b290-c73e300c5138)
 
 This is an example of a graph created on the FastAPI local host. 
