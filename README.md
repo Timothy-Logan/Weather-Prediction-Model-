@@ -103,6 +103,17 @@ date,temperature,location
 2024-01-02,17.0,Ajax Ontario
 ```
 
+## Use Cases
+
+This API can be integrated into:
+
+- **Weather Dashboards**: Display forecasts on web dashboards
+- **Agricultural Planning**: Help farmers plan based on temperature predictions
+- **Event Planning**: Assist with outdoor event scheduling
+- **Smart Home Systems**: Integrate with home automation for climate control
+- **Research Projects**: Use as a baseline for weather prediction studies
+- **Mobile Apps**: Backend API for weather applications
+
 ## Future Improvements
 - [ ] Add support for additional weather metrics (humidity, precipitation)
 - [ ] Implement multiple ML models for comparison
