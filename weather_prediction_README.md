@@ -53,7 +53,8 @@ Timothy Logan Assignment #2 - Systems Design Description: This project is a Fast
 
 ### Weather Forecast
 
-![Weather Forecast Graph](https://raw.githubusercontent.com/Timothy-Logan/Weather-Prediction-Model-/main/example_graph.png)
+<img width="615" height="470" alt="image" src="https://github.com/user-attachments/assets/0bd2fada-6b06-4a61-be88-f431756424e3" />
+
 
 *Example of a graph created on the FastAPI local host.*
 
