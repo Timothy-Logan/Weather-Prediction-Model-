@@ -23,6 +23,23 @@ FastAPI-based machine learning service for weather prediction, containerized wit
 - **Docker** - Containerization
 - **Google Cloud Platform** - Artifact Registry deployment
 
+## System Requirements
+
+**Minimum:**
+- Python 3.9 or higher
+- 2GB RAM
+- Internet connection (for initial package download)
+
+**Recommended:**
+- Python 3.10+
+- 4GB RAM
+- SSD storage for faster model loading
+
+**Operating Systems:**
+- ✅ Linux (Ubuntu 20.04+, tested)
+- ✅ macOS (10.15+)
+- ✅ Windows 10/11 (with WSL2 recommended)
+
 ## Installation
 
 ### Local Setup
